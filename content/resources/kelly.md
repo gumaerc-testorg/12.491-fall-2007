@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02d6006e-779d-1ad8-cd97-d092c2ee485c
 resourcetype: Document
 title: 'Proterozoic Sulfur Cycle: The Rise of Oxygen'
 uid: 3b9c002b-7934-2dd8-1b4a-d0a3510675ab

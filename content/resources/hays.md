@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02d6006e-779d-1ad8-cd97-d092c2ee485c
 resourcetype: Document
 title: Identifying the Existence and Extent of the Sulfidic Ocean at the PTB
 uid: 9ab818d9-8ee8-c250-b9c8-be030ad67130

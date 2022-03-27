@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02d6006e-779d-1ad8-cd97-d092c2ee485c
 resourcetype: Document
 title: Evaluating the importance of methanogenesis using noncompetitive substrates
   in wetlands impacted by sulfur pollution

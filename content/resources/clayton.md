@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02d6006e-779d-1ad8-cd97-d092c2ee485c
 resourcetype: Document
 title: 'Phytoplankton, Climate and the Sulfur Cycle: Exploring the CLAW Hypothesis'
 uid: e888e356-2e83-85f7-4e35-15cb660d7b36

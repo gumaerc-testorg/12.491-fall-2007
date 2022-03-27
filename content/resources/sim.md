@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 02d6006e-779d-1ad8-cd97-d092c2ee485c
 resourcetype: Document
 title: Sulfur Isotope Fractionation during the Thiosulfate Disproportionation Reaction
 uid: d1bf4d55-61ce-0517-a1ff-306b607a526d
