@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of general readings for the course, organized
+  by topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ebf6345a-60f2-0da8-a733-d9f187fc2e6e
 ---
@@ -73,7 +78,7 @@ Canfield, D. E. "The Evolution of the Earth Surface Sulfur Reservoir." _Am J Sci
 
 Kurtz, A. C., L. R. Kump, M. A. Arthur, J. C. Zachos, and A. Paytan. "Early Cenozoic Decoupling of the Global Carbon and Sulfur Cycles." _Paleoceanography_ 18 (2003).
 
-Berner, R. A. "GEOCARBSULF: A Combined Model for Phanerozoic Atmospheric O2 and CO2." _Geochimica Et Cosmochimica Acta_ 70 (2006): 5653-5664.
+Berner, R. A. "GEOCARBSULF: A Combined Model for Phanerozoic Atmospheric O{{< sub "2" >}} and CO{{< sub "2" >}}." _Geochimica Et Cosmochimica Acta_ 70 (2006): 5653-5664.
 
 Neoproterozoic Rise of Oxygen and Ocean Sulfate
 -----------------------------------------------
@@ -124,7 +129,7 @@ D'hondt, S., B. B. Jorgensen, D. J. Miller, A. Batzke, R. Blake, B. A. Cragg, H.
 Archean Sulfur Cycles
 ---------------------
 
-Farquhar, J., J. Savarino, S. Airieau, and M. H. Thiemens. "Observation of Wavelength-Sensitive Mass-Independent Sulfur Isotope Effects During SO2 Photolysis: Implications for the Early Atmosphere." _Journal of Geophysical Research_ 106 (2001): 1-11.
+Farquhar, J., J. Savarino, S. Airieau, and M. H. Thiemens. "Observation of Wavelength-Sensitive Mass-Independent Sulfur Isotope Effects During SO{{< sub "2" >}} Photolysis: Implications for the Early Atmosphere." _Journal of Geophysical Research_ 106 (2001): 1-11.
 
 Farquhar, J., H. M. Bao, and M. Thiemens. "Atmospheric Influence of Earth's Earliest Sulfur Cycle." _Science_ 289 (2000a): 756-758.
 
